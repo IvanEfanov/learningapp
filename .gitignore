@@ -3,6 +3,7 @@
 *.ipr
 *.iws
 .idea
+HELP.md
 
 # Build
 target
